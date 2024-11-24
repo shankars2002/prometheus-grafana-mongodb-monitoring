@@ -4,7 +4,7 @@
 
 # Complete Setup: Grafana, Prometheus, and MongoDB 
 
-In this guide, we will go through the process of setting up **Prometheus** to collect system metrics, using **Grafana** for visualizing those metrics, and storing the collected metrics in **MongoDB** for long-term storage. By the end, you will have a fully functional monitoring system where Prometheus collects metrics, Grafana visualizes them, and MongoDB stores the data.
+In this we will setting up **Prometheus** to collect system metrics, using **Grafana** for visualizing those metrics, and storing the collected metrics in **MongoDB** for long-term storage. By the end, you will have a fully functional monitoring system where Prometheus collects metrics, Grafana visualizes them, and MongoDB stores the data.
 
 ## **Table of Contents**
 
